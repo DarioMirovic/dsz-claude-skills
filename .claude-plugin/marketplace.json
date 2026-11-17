@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "dsz",
+  "description": "Skills for readable code, design before code, careful review and drafts.",
+  "owner": {
+    "name": "Dario Mirovic",
+    "url": "https://github.com/DarioMirovic"
+  },
+  "plugins": [
+    {
+      "name": "dsz",
+      "description": "Readable code, design before code, review into a pending GitHub review, and drafts of commit messages, PR text and replies.",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}

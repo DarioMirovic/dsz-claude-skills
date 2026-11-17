@@ -1,0 +1,9 @@
+{
+  "name": "dsz",
+  "version": "0.1.0",
+  "description": "Skills for readable code, design before code, review into a pending GitHub review, and drafts of commit messages, PR text and replies.",
+  "author": {
+    "name": "Dario Mirovic",
+    "url": "https://github.com/DarioMirovic"
+  }
+}
